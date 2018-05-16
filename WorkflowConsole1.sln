@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkflowConsole1", "WorkflowConsole1\WorkflowConsole1.csproj", "{ABA76494-9B2A-4445-8842-7AFBAD4DF34A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABA76494-9B2A-4445-8842-7AFBAD4DF34A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABA76494-9B2A-4445-8842-7AFBAD4DF34A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABA76494-9B2A-4445-8842-7AFBAD4DF34A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABA76494-9B2A-4445-8842-7AFBAD4DF34A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9355507-987F-46A6-B497-C59DBF63E290}
+	EndGlobalSection
+EndGlobal

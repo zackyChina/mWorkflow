@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs/WorkflowConsole1/v15
+/WorkflowConsole1/bin/Debug
+/WorkflowConsole1/obj/Debug
